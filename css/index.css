@@ -64,8 +64,14 @@ body {
     color: #45ABF7;
 }
 
+
+/* Remove */
 .remove{
+    padding: 10px;
     background: #fff;
+}
+.remove_content{
+    margin: 5px;
 }
 #input, #output{
     font-weight: normal;
